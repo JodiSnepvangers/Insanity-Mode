@@ -7,6 +7,7 @@ We have heroes such as:
 - Flying Bastion
 - Winston with a battery
 - Sombra, who can change into others
+
 and many more!
 
 Beware! This is a very large script that is at the limit of the Overwatch Workshop. There is a chance it will overload the server!
